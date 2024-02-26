@@ -1,0 +1,164 @@
+                                                                                                                                                     User strories
+
+
+User stories are part of an agile approach that helps shift the focus from writing about requirements to
+ talking about them. 
+HPUserStorys
+LPUUserStorys
+
+
+
+what:-
+A user story is a short, simple description of a feature told from the perspective of the person who desires 
+the new capability, usually a user or customer of the system
+
+how:-
+Writing good user stories in Scrum requires an understanding of the basic user story template, a focus on the user or customer,
+ and a clear picture of the desired functionality.
+
+when:
+User stories are written throughout the agile project. Usually a story-writing workshop is held near the start of the agile project. 
+  Good user stroy:
+
+the 3'c user stories
+
+Card: Written description of the story, used for planning and as a reminder
+Conversation: Conversations about the story that serve to flesh out the details of the story
+Confirmation: Tests that convey and document details that can be used to determine when a story is complete.
+
+Example:
+
+As a trainer, I want my profile to list my upcoming classes and include a link to a detailed page about each so that prospective attendees can find my courses.
+
+As a site visitor, I can access old news that is no longer on the home page, so I can access things I remember from the past or that others mention to me
+
+
+
+
+How to write user stories :
+When writing a user story, remember that user stories follow a standard template:
+
+As a < type of user >, I want < some goal > so that < some reason >.
+
+
+User Strories Example:
+
+As a 
+registered user 
+ I want to 
+change my password
+so l can
+keep my account secure
+
+
+User stories example:
+As a 
+save  data in ui
+i want to 
+create data of emp  and saveing
+so i can 
+keep my data secure
+
+
+User stories Example:
+As a
+Withdrawing cash
+I  want to withdraw cash from the bank
+So i can easily withdrow cash with out card
+
+
+User stories Example:
+As a 
+spootify app
+I want crate fovarate  list
+so in can
+easily i can play my fov songs one short
+
+https://www.justinmind.com/blog/user-story-examples/
+
+
+
+
+
+
+
+
+
+Name -Student views their Assigmant Results
+
+
+Trigger-Student wishes to know the result for their assigment sumission.
+
+script a-Student selects a unit of study from the list of available units . A summary of assignments is presented.
+
+Students selects an assignment the details for this asssignment inculuding their results are presented.
+
+
+User story advantages:
+
+.Delivers high quality contant
+.Helps understand users better
+.improves transparency
+.reduces risks 
+
+
+1. simple example of a user story:
+
+As a online shopper, I want to view product reviews and ratings, So that I can make informed purchasing decisions.
+
+In this user story:
+
+The persona is the “online shopper.”
+The need is to “view product reviews and ratings.”
+The purpose is to “make informed purchasing decisions.”
+
+
+
+
+What are acceptance criteria?
+Acceptance criteria are specific criteria or conditions that a product or service must meet in order to be considered acceptable or satisfactory to the client or end user. These criteria are typically used in the context of project management or software development to define the requirements and expectations for a particular deliverable. They help to ensure that the final product meets the desired quality standards and 
+fulfils the client's needs.
+
+Examples of acceptance criteria:-
+
+Login Functionality
+When a user enters the correct username and password, they are redirected to their dashboard.
+After three unsuccessful login attempts, the user is locked out for 10 minutes.
+Passwords must be encrypted and not visible in plain text at any point in the system.
+The login page should load within two seconds under normal network conditions.
+Users must receive an email notification upon successful password change for security purposes.
+
+
+
+
+Benefits of using acceptance criteria:
+
+.keepit clear and consistent
+clarity over ambiguity
+testing made easier
+save the day of money
+
+conclusion:
+Acceptance criteria are not just a set of guidelines; they are the cornerstone of successful Agile project management. They bring clarity, focus, and precision to the development process, ensuring that every feature and functionality aligns perfectly with the user's needs and expectations. By adhering to these criteria, teams can avoid the pitfalls of ambiguity and ensure a streamlined, efficient path to project completion.
+
+  Investing user stories:
+help to write good stories
+
+
+Independent-This means that you can schedule and implement each user story separately
+negotiable-open to negotiations
+Valuble-A story must be valuable to the customer
+estimable-can be divideinto tasks
+Small-  Good user stories tend to be small enough to plan for short production releases. Small stories allow for more specific estimates.
+testable- If a story can be tested, it’s clear enough and good enough. Tested stories mean that requirements are done and ready for use.
+
+
+
+
+
+
+
+
+
+
+
